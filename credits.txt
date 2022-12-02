@@ -1,0 +1,20 @@
+Character Animation
+
+Inspired by Margarita Solianova
+
+https://dribbble.com/shots/9152663-character-animation-3
+
+
+Camera Fade-In
+https://phaser.io/examples/v3/view/camera/camera-fade-in-and-out#
+
+RexUI-plugins
+
+https://rexrainbow.github.io/phaser3-rex-notes/docs/site/
+
+
+Converting Gifs to Sprite Sheets
+
+ezgif.com
+
+Eye gifs - Plurabelle
